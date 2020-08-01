@@ -7,9 +7,9 @@ import java.util.Queue;
 
 import org.junit.Test;
 
-import javaGOAP.DefaultGoapPlanner;
-import javaGOAP.GoapAction;
-import javaGOAP.IGoapPlanner;
+import pub.p1387h.javaGOAP.DefaultGoapPlanner;
+import pub.p1387h.javaGOAP.GoapAction;
+import pub.p1387h.javaGOAP.IGoapPlanner;
 
 /**
  * GoapPlannerTest.java --- GoapPlanner test file.

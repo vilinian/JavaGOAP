@@ -1,7 +1,7 @@
 package pub.p1387h.JavaGOAP;
 
-import javaGOAP.GoapState;
-import javaGOAP.IGoapUnit;
+import pub.p1387h.javaGOAP.GoapState;
+import pub.p1387h.javaGOAP.IGoapUnit;
 
 /**
  * TestActionThree.java --- Third TestAction.

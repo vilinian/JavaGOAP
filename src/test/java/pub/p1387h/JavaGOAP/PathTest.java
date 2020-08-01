@@ -7,10 +7,10 @@ import java.util.List;
 
 import org.junit.Test;
 
-import javaGOAP.graph.DirectedGraph;
-import javaGOAP.graph.Edge;
-import javaGOAP.graph.Path;
-import javaGOAP.graph.PathFactory;
+import pub.p1387h.javaGOAP.graph.DirectedGraph;
+import pub.p1387h.javaGOAP.graph.Edge;
+import pub.p1387h.javaGOAP.graph.Path;
+import pub.p1387h.javaGOAP.graph.PathFactory;
 
 /**
  * PathTest.java --- Path TestFile.

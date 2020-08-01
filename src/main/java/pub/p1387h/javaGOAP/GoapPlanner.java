@@ -7,10 +7,10 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Queue;
 
-import javaGOAP.graph.IWeightedGraph;
-import javaGOAP.graph.PathFactory;
-import javaGOAP.graph.WeightedEdge;
-import javaGOAP.graph.WeightedPath;
+import pub.p1387h.javaGOAP.graph.IWeightedGraph;
+import pub.p1387h.javaGOAP.graph.PathFactory;
+import pub.p1387h.javaGOAP.graph.WeightedEdge;
+import pub.p1387h.javaGOAP.graph.WeightedPath;
 
 /**
  * GoapPlanner.java --- Class for generating a Queue of GoapActions.

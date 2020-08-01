@@ -1,8 +1,8 @@
 package pub.p1387h.JavaGOAP;
 
-import javaGOAP.GoapAction;
-import javaGOAP.GoapState;
-import javaGOAP.IGoapUnit;
+import pub.p1387h.javaGOAP.GoapAction;
+import pub.p1387h.javaGOAP.GoapState;
+import pub.p1387h.javaGOAP.IGoapUnit;
 
 /**
  * TestActionOne.java --- First TestAction.

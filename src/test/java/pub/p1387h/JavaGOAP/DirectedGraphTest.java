@@ -7,8 +7,8 @@ import static org.junit.Assert.assertTrue;
 
 import org.junit.Test;
 
-import javaGOAP.graph.DirectedGraph;
-import javaGOAP.graph.Edge;
+import pub.p1387h.javaGOAP.graph.DirectedGraph;
+import pub.p1387h.javaGOAP.graph.Edge;
 
 /**
  * GraphTest.java --- Graph TestFile.

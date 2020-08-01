@@ -1,8 +1,8 @@
 package pub.p1387h.javaGOAP;
 
-import javaGOAP.graph.DirectedWeightedGraph;
-import javaGOAP.graph.IWeightedGraph;
-import javaGOAP.graph.WeightedEdge;
+import pub.p1387h.javaGOAP.graph.DirectedWeightedGraph;
+import pub.p1387h.javaGOAP.graph.IWeightedGraph;
+import pub.p1387h.javaGOAP.graph.WeightedEdge;
 
 /**
  * DefaultGoapPlanner.java --- The default implementation of the GoapPlanner.

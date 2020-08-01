@@ -2,9 +2,9 @@ package pub.p1387h.JavaGOAP;
 
 import java.util.Queue;
 
-import javaGOAP.GoapAction;
-import javaGOAP.GoapState;
-import javaGOAP.GoapUnit;
+import pub.p1387h.javaGOAP.GoapAction;
+import pub.p1387h.javaGOAP.GoapState;
+import pub.p1387h.javaGOAP.GoapUnit;
 
 /**
  * TestUnit.java --- Unit for testing purposes.

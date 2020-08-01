@@ -5,8 +5,8 @@ import java.util.HashMap;
 import java.util.HashSet;
 import java.util.List;
 
-import javaGOAP.graph.WeightedEdge;
-import javaGOAP.graph.WeightedPath;
+import pub.p1387h.javaGOAP.graph.WeightedEdge;
+import pub.p1387h.javaGOAP.graph.WeightedPath;
 
 /**
  * GraphNode.java --- Vertex on the used DefaultGraph / -Planner.

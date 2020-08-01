@@ -4,8 +4,8 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-import javaGOAP.graph.DirectedWeightedGraph;
-import javaGOAP.graph.WeightedEdge;
+import pub.p1387h.javaGOAP.graph.DirectedWeightedGraph;
+import pub.p1387h.javaGOAP.graph.WeightedEdge;
 
 /**
  * WeightedGraphTest.java --- WeightedGraph TestFile.
